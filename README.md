@@ -1,4 +1,5 @@
-![Imagem](https://github.com/user-attachments/assets/7ae83214-cc3e-4616-8b3a-ba79070fb3c0)
+![imagem_](https://github.com/user-attachments/assets/c85d46d4-b0c4-4b98-beaa-a0c86d1e9da2)
+
 
 
 Respositório de formação em Power BI Analyst 🎓💻
