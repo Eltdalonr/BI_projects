@@ -1,4 +1,5 @@
-![ChatGPT Image 8 de abr  de 2025, 22_17_19](https://github.com/user-attachments/assets/e164a4cf-fbb3-41f3-9507-8cbf6aab792a)
+
+![431623478-e164a4cf-fbb3-41f3-9507-8cbf6aab792a](https://github.com/user-attachments/assets/649d16f8-9681-44a0-b3a9-c5c33f93ef96)
 
 
 
@@ -15,7 +16,6 @@ Ao longo da formação, estou explorando visualizações personalizadas, recurso
 ✅ Criação de visuais de amostra financeira 📈:
 
 **-Arquivo.:** creating_financial_sample_visuals.pibx
-![ChatGPT Image 8 de abr  de 2025, 22_17_19](https://github.com/user-attachments/assets/b33a5d1c-7470-4dae-b58d-1c66fca6a06f)
 
 - Descrição: 
 
