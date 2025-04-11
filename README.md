@@ -9,15 +9,13 @@ Ao longo da formação, estou explorando visualizações personalizadas, recurso
 
 📝**Desáfios|Projetos:**
 
-- Desafio1:
+- Projeto1: Analisando dados de um Dashboard de Vendas no Power BI
 
-**Descrição do desafio:**  Neste projeto você irá replicar duas páginas já criadas durante o curso com a sample disponibilizada. 
+**Descrição:**  Neste projeto você irá replicar duas páginas já criadas durante o curso com a sample disponibilizada. 
 
 ✅ Criação de visuais de amostra financeira 📈:
 
 **-Arquivo.:** creating_financial_sample_visuals.pibx
-
-- Descrição: 
 
 Relátorio de Vendas considerando Países e Lucro;
 
@@ -27,16 +25,14 @@ Relátorio de Vendas considerando Semegmento e País;
 
 ![Pagina_3](https://github.com/user-attachments/assets/ae19a58c-bfd4-4c93-8ec9-3a07f9a20d5a)
 
-- Desafio2:
+- Projeto2: Criando Um Relatório Gerencial de Vendas com Power BI
 
-**Descrição do desafio:** Criar de um relatório mais elaborado com base na sample financials do Power BI com Objetos que definem o layout do relatório,
+**Descrição:** Criar de um relatório mais elaborado com base na sample financials do Power BI com Objetos que definem o layout do relatório,
 Gráficos (visuais) e os campos que os compõem, botões para navegabilidade e Segmentadores de dados. 
 
-✅ Criação de relatório mais elaborado de amostra financeira 📈:
+✅ Criação de relatório mais elaborado da amostra financeira 📈:
 
 **-Arquivo.:** Sales_report_&_report_lucro_detalhado.pibx
-
-- Descrição: 
 
 Relatório de Vendas;
 
