@@ -1,11 +1,13 @@
 
-![graphic_bars_chart_analytics_statistics_icon_185973 (1)](https://github.com/user-attachments/assets/50f69557-2315-4884-b8fd-e36fff28cb63) **Respositório de formação em Power BI Analyst**
+![graphic_bars_chart_analytics_statistics_icon_185973 (1)](https://github.com/user-attachments/assets/50f69557-2315-4884-b8fd-e36fff28cb63) **Respositório de formação e Projetos em Power BI Analyst**
 ***
 Ao longo da formação, estou explorando visualizações personalizadas, recursos avançados com IA, integração com diferentes sistemas e modelagem de dados. Tudo isso com desafios baseado na confecção de projetos práticos, que me permitem vivenciar cada etapa do fluxo completo de análise de dados. 
 
 📝**Desáfios|Projetos:**
 
-- Projeto1: Analisando dados de um Dashboard de Vendas no Power BI
+***
+
+- **Projeto1:** Analisando dados de um Dashboard de Vendas no Power BI
 
 **Descrição:**  Neste projeto você replicou-se duas páginas já criadas durante o curso com a sample disponibilizada. 
 
@@ -21,7 +23,9 @@ Relátorio de Vendas considerando Semegmento e País;
 
 ![Pagina_3](https://github.com/user-attachments/assets/ae19a58c-bfd4-4c93-8ec9-3a07f9a20d5a)
 
-- Projeto2: Criando Um Relatório Gerencial de Vendas com Power BI
+***
+
+- **Projeto2:** Criando Um Relatório Gerencial de Vendas com Power BI
 
 **Descrição:** Criou-se um relatório mais elaborado com base na sample financials do Power BI com Objetos que definem o layout do relatório,
 Gráficos (visuais) e os campos que os compõem, botões para navegabilidade e Segmentadores de dados. 
@@ -38,4 +42,5 @@ Relatório de Lucro detalhado.
 
 ![Pagina_2](https://github.com/user-attachments/assets/41e4a775-562f-4316-9b52-f2b7e9399a43)
 
+***
 
