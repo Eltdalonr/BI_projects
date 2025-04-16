@@ -11,7 +11,7 @@ Ao longo da formação, estou explorando visualizações personalizadas, recurso
 
 - Projeto1: Analisando dados de um Dashboard de Vendas no Power BI
 
-**Descrição:**  Neste projeto você irá replicar duas páginas já criadas durante o curso com a sample disponibilizada. 
+**Descrição:**  Neste projeto você replicou-se duas páginas já criadas durante o curso com a sample disponibilizada. 
 
 ✅ Criação de visuais de amostra financeira 📈:
 
@@ -27,7 +27,7 @@ Relátorio de Vendas considerando Semegmento e País;
 
 - Projeto2: Criando Um Relatório Gerencial de Vendas com Power BI
 
-**Descrição:** Criar de um relatório mais elaborado com base na sample financials do Power BI com Objetos que definem o layout do relatório,
+**Descrição:** Criou-se um relatório mais elaborado com base na sample financials do Power BI com Objetos que definem o layout do relatório,
 Gráficos (visuais) e os campos que os compõem, botões para navegabilidade e Segmentadores de dados. 
 
 ✅ Criação de relatório mais elaborado da amostra financeira 📈:
