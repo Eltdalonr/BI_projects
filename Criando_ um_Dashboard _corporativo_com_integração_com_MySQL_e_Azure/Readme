@@ -1,0 +1,38 @@
+🧠 Objetivo:
+
+Este projeto tem como objetivo aplicar os conhecimentos adquiridos no módulo processamento de dados com Power BI para criar uma integração entre o azure o Mysql, 
+transformar o dados e criar um relatório a fim de ilustrar essa transformação. 
+
+1.	Criação de uma instância na Azure para MySQL
+2.	Criar o Banco de dados com base disponível no github
+3.	Integração do Power BI com MySQL no Azure 
+4.	Verificar problemas na base a fim de realizar a transformação dos dados
+Diretrizes para transformação dos dados 
+
+1.	Verificação preliminar dos cabeçalhos e tipos de dados em todas as tabelas. 
+Alterações iniciais: Coluna “Salary” da consulta –  company_constraints Employee, alterado o tipo de dado para decimal; 
+coluna “Hours” da consulta – company_constraints  Works on, alterado o tipo de dado para inteiro.
+coluna “Address” da consulta –company_constraints Employee, separada em Número, Street, 	Neighborhood, State;
+
+2.	Mesclada consultas employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores, 
+e colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes deles.
+
+•	Posterior a etapa de mescla, eliminado colunas desnecessárias;
+•	Alterado nome e tipo de dado da coluna Super_ssn para a definição dos Gerentes;
+
+3.	Mesclado os nomes de departamentos e localização. Isso fará que cada combinação departamento-local seja único. 
+
+•	A mescla foi utilizada pois combina informações de duas colunas criando registros únicos, mantendo a integridade dos dados. 
+•	A operação de atribuir não seria adequada neste caso, pois poderia causar inconsistências ou perda de dados ao tentar 
+copiar valores de uma coluna para outra em casos de múltiplas ocorrências.
+
+4.	Eliminada as colunas desnecessárias, que não serão usadas no relatório, a fim de ratificar a transformação dos dados, de cada tabela.
+
+5.	Criado relatório com visuais a finalidade de mostrar os dados transformados:
+
+•	Treemap – Contagem de colaboradores por departamento;
+•	Map – Contagem de colaborador por bairro;
+•	Gráfico de colunas empilhadas – Mediana de salário por gênero;
+•	Gráfico – Soma de Horas de projetos por Departamento; 
+•	Cartão – Quantidade de gerentes de colaboradores; 
+
