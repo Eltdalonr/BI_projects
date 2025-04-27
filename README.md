@@ -1,5 +1,5 @@
 
-![graphic_bars_chart_analytics_statistics_icon_185973 (1)](https://github.com/user-attachments/assets/50f69557-2315-4884-b8fd-e36fff28cb63) **Respositório de formação e Projetos em Power BI Analyst**
+![graphic_bars_chart_analytics_statistics_icon_185973 (1)](https://github.com/user-attachments/assets/50f69557-2315-4884-b8fd-e36fff28cb63) **Respositório da minha formação e Projetos em Power BI Analyst**
 ***
 Ao longo da formação, estou explorando visualizações personalizadas, recursos avançados com IA, integração com diferentes sistemas e modelagem de dados. Tudo isso com desafios baseado na confecção de projetos práticos, que me permitem vivenciar cada etapa do fluxo completo de análise de dados. 
 
