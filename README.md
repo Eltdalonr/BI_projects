@@ -16,11 +16,13 @@ Ao longo da formação, estou explorando visualizações personalizadas, recurso
 
 Relátorio de Vendas considerando Países e Lucro;
 
-![Pagina_2](https://github.com/user-attachments/assets/82f662a2-8a2f-4466-aa02-42856481d5dd)
+![Relatório_de_Vendas_Considerando_Países_e_Lucro](https://github.com/user-attachments/assets/0f8e4e47-b3b0-41a3-9402-0ab85deb7086)
+
 
 Relátorio de Vendas considerando Semegmento e País;
 
-![Pagina_3](https://github.com/user-attachments/assets/ae19a58c-bfd4-4c93-8ec9-3a07f9a20d5a)
+![Relatório_de_Vendas_Considerando_Segmento_e_País](https://github.com/user-attachments/assets/778b657f-8473-4494-955d-adf0c83db861)
+
 
 ***
 
@@ -34,11 +36,12 @@ Gráficos (visuais) e os campos que os compõem, botões para navegabilidade e S
 
 Relatório de Vendas;
 
-![pagina_1](https://github.com/user-attachments/assets/5a39fcd6-4e0e-4609-a13e-701baa347ce7)
+![Relatório_de_Vendas](https://github.com/user-attachments/assets/2b6f027f-a3d7-442d-b8ef-97c0d0d2b6c7)
+
 
 Relatório de Lucro detalhado.
 
-![Pagina_2](https://github.com/user-attachments/assets/41e4a775-562f-4316-9b52-f2b7e9399a43)
+![Relatório_de_Lucro_Detalhado](https://github.com/user-attachments/assets/ff8bd9b0-c544-4294-808d-3e9e1b88a18e)
 
 ***
 
