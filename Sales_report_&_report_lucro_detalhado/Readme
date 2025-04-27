@@ -1,0 +1,26 @@
+🎯 Objetivo:
+
+Criou-se um relatório mais elaborado com base na sample financials do Power BI, seguindo a estrutura e requisitos estabelecidos.
+
+📝 Descrição do Desafio: Criar um relatório com estrutura definida,Botões de navegação para garantir a navegabilidade
+Segmentadores de dados e botões com imagem associada, Indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto.
+
+
+Criação dos elementos da primeira página:
+
+Objetos que definem o layout do relatório
+
+Gráficos (visuais) e campos que os compõem
+
+Botões de navegabilidade
+
+Segmentadores de dados
+
+Criação da segunda página no relatório:
+
+Publicar o relatório no Power BI Service.
+
+Você pode usar outros artifícios para melhorar os botões e funcionalidades, se tiver familiaridade.
+
+Submeta seu projeto através do link informado no GitHub.
+
